@@ -1,1 +1,2 @@
-aoc2020
+# aoc2020
+My solution code for AOC2020
